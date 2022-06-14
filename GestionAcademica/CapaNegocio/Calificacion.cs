@@ -88,6 +88,41 @@ namespace CapaNegocio
             }
         }
 
+        public List<Estudiante> GetAsignarcalificasion()
+        {
+
+            List<Estudiante> Lista = new List<Estudiante>();
+
+
+            return Lista;
+        }
+
+
+        public List<Estudiante> GetBuscarEstudiantemodificarnota()
+        {
+
+            List<Estudiante> Estudiante = new List<Estudiante>();
+
+
+            return Estudiante;
+        }
+        public List<Calificacion> GetRegistroCalificasiones()
+        {
+
+            List<Calificacion> Lista = new List<Calificacion>();
+
+
+            return Lista;
+        }
+        public List<Grupo> Getcalcularpromedio()
+        {
+
+            List<Grupo> promedio = new List<Grupo>();
+
+
+            return promedio;
+        }
+
 
 
     }
