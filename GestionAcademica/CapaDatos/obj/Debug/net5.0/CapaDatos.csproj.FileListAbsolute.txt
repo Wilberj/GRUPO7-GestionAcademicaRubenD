@@ -1,0 +1,12 @@
+D:\GestionAcademica\CapaDatos\bin\Debug\net5.0\CapaDatos.deps.json
+D:\GestionAcademica\CapaDatos\bin\Debug\net5.0\CapaDatos.dll
+D:\GestionAcademica\CapaDatos\bin\Debug\net5.0\CapaDatos.pdb
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.csproj.AssemblyReference.cache
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.AssemblyInfoInputs.cache
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.AssemblyInfo.cs
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.dll
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\refint\CapaDatos.dll
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\CapaDatos.pdb
+D:\GestionAcademica\CapaDatos\obj\Debug\net5.0\ref\CapaDatos.dll

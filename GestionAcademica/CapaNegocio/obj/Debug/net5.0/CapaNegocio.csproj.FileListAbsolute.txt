@@ -1,0 +1,15 @@
+D:\GestionAcademica\CapaNegocio\bin\Debug\net5.0\CapaNegocio.deps.json
+D:\GestionAcademica\CapaNegocio\bin\Debug\net5.0\CapaNegocio.dll
+D:\GestionAcademica\CapaNegocio\bin\Debug\net5.0\CapaNegocio.pdb
+D:\GestionAcademica\CapaNegocio\bin\Debug\net5.0\CapaDatos.dll
+D:\GestionAcademica\CapaNegocio\bin\Debug\net5.0\CapaDatos.pdb
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfo.cs
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CopyComplete
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.dll
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\refint\CapaNegocio.dll
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\CapaNegocio.pdb
+D:\GestionAcademica\CapaNegocio\obj\Debug\net5.0\ref\CapaNegocio.dll
